@@ -11,5 +11,5 @@
 
 
 
-echo '法开始大cadfkew';
+echo '自动更新;lkfakfeiw';
 
