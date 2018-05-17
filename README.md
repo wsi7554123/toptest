@@ -121,7 +121,7 @@ www  WEB部署目录（或者子目录）
 ## 版权信息
 
 ## 接口文档
-*  <a href="https://github.com/wsi7554123/toptest/blob/master/build.php">短信验证接口</a>
+*  <a href="https://github.com/wsi7554123/toptest/blob/master/sms.md">短信验证接口</a>
 
 ThinkPHP遵循Apache2开源协议发布，并提供免费使用。
 
