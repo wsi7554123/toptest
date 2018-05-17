@@ -117,7 +117,7 @@ www  WEB部署目录（或者子目录）
 
 ## 参与开发（）
 请参阅 [ThinkPHP5 核心框架包](https://github.com/top-think/framework)。
-项目文档目录(https://github.com/wsi7554123/toptest.git/build.php)。
+项目文档目录(<a href="https://github.com/wsi7554123/toptest/build.php">sdf</a>)
 ## 版权信息
 
 ThinkPHP遵循Apache2开源协议发布，并提供免费使用。
