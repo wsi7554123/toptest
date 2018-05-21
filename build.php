@@ -11,5 +11,5 @@
 
 
 
-echo '自动更新;lkfakfeiw';
+echo '看风景水电费';
 
